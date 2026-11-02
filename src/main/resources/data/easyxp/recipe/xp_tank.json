@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "L": "minecraft:lapis_lazuli",
+    "R": "minecraft:redstone"
+  },
+  "pattern": ["ILI", "IRI", "III"],
+  "result": { "count": 1, "id": "easyxp:xp_tank" }
+}

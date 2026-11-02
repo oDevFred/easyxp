@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "L": "minecraft:lapis_lazuli",
+    "N": "minecraft:iron_nugget"
+  },
+  "pattern": [" N ", "NCL", " N "],
+  "result": { "count": 1, "id": "easyxp:xp_magnet" }
+}

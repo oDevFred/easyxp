@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": "minecraft:emerald",
+    "G": "minecraft:gold_ingot",
+    "T": "easyxp:xp_tank"
+  },
+  "pattern": ["GEG", "ETE", "GEG"],
+  "result": { "count": 1, "id": "easyxp:xp_tank_upgraded" }
+}

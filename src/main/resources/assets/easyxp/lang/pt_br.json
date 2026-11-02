@@ -1,0 +1,11 @@
+{
+  "itemGroup.easyxp.main": "Hephaestus XP",
+  "block.easyxp.xp_tank": "Tanque de XP",
+  "block.easyxp.xp_tank_upgraded": "Tanque de XP Aprimorado",
+  "item.easyxp.xp_magnet": "Ímã de XP",
+  "item.easyxp.xp_magnet.tooltip": "Segurando na mão, atrai e absorve orbes de XP próximos",
+  "gui.easyxp.deposit_level": "Depositar 1 Nível",
+  "gui.easyxp.deposit_all": "Depositar Tudo",
+  "gui.easyxp.withdraw_level": "Sacar 1 Nível",
+  "gui.easyxp.withdraw_all": "Sacar Tudo"
+}
